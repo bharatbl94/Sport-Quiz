@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_bf16f06d082cf5c522831a877fa6963ad21e7668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bharat.l\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_38434ad5148023d9a1194b9d255d4406e68f9ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bharat.l\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\library-1.0.15_5fd776ad0e410f8cd6dce268005a9f345757fb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_8cfc9e34e576c5c8da204768c93370a4f9274d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_8411b1806298f9bf769634d0ca57663d472631c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_1c278628d527d11347d699810d5f270bbc79b611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_734c99f67cf18c77fb55824367d42ae6d93f17c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_e26af948fc160fd7d40ecc0a7e500ec7b621f8ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_4cb9b45d2f9bbf7d723f11b71c0543ad9c8f659b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_6c254d6f902cdd98bee4258fe3ecd2af12e7a9fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_d38eacfc59379058690e80a6430eab8947306ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_3d8a2f74979191bc4a90891161d145e9345cba58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_851bd144a3dd23025a790e1e8ac0569bbb5356c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_a32c176fb50ad50f0c1d7b689f3a6f78cab74a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\sportsquiz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\sportsquiz\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_431437a05ef5390a989c908057ee770b9adc1a2f.jar" />
+    </item>
+
+</items>
